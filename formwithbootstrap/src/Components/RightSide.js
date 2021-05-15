@@ -14,7 +14,7 @@ const rightSide = () => {
           src="./job-interview-conversation_74855-7566.jpg"
         />
         <Figure.Caption>
-          Your informations will be transmitted to our company.
+          Your informations will be transmitted to our Company.
         </Figure.Caption>
       </Figure>
     </div>

@@ -5,9 +5,9 @@ import Menu from "./Components/Menu";
 import LeftSide from "./Components/LeftSide";
 import RightSide from "./Components/RightSide";
 
-function App() {
+function App() {    
   return (
-    <div className="App">
+    <div className="App">  
       <Container>
         <Menu />
         <h1 className="H1">Registration Form</h1>

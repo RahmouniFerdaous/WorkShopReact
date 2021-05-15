@@ -4,6 +4,7 @@ import { Navbar, NavDropdown, Nav, Container } from "react-bootstrap";
 const menu = () => {
   return (
     <div>
+      {/* responsive navbar */}
       <Navbar collapseOnSelect expand="lg" bg="white">
         <Container>
           <Navbar.Brand href="#home">IT-Company</Navbar.Brand>
