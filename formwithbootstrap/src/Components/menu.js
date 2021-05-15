@@ -1,7 +1,7 @@
 import React from "react";
 import { Navbar, NavDropdown, Nav, Container } from "react-bootstrap";
 
-const menu = () => {
+const Menu = () => {
   return (
     <div>
       {/* responsive navbar */}
@@ -36,4 +36,4 @@ const menu = () => {
   );
 };
 
-export default menu;
+export default Menu;

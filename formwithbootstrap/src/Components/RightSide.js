@@ -1,7 +1,7 @@
 import React from "react";
 import { Figure } from "react-bootstrap";
 
-const rightSide = () => {
+const RightSide = () => {
   return (
     <div>
       <br />
@@ -21,4 +21,4 @@ const rightSide = () => {
   );
 };
 
-export default rightSide;
+export default RightSide;

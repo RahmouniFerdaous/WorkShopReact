@@ -1,7 +1,7 @@
 import React from "react";
 import { Row, Col, Form, Button } from "react-bootstrap";
 
-const leftSide = () => {
+const LeftSide = () => {
   return (
     <div>
       <br />
@@ -90,4 +90,4 @@ const leftSide = () => {
   );
 };
 
-export default leftSide;
+export default LeftSide;
