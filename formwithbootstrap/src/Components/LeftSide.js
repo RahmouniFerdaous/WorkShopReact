@@ -6,7 +6,6 @@ const leftSide = () => {
     <div>
       <br />
       <br />
-      <br />
       <Form style={{ width: "85%", marginLeft: "10%" }}>
         <Row>
           <Col>
